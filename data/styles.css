@@ -1,6 +1,6 @@
 ﻿.ax_default {
-  font-family:'Arial Normal', 'Arial';
-  font-weight:400;
+  font-family:'冬青黑体简体中文 W3', '冬青黑体简体中文';
+  font-weight:300;
   font-style:normal;
   font-size:13px;
   color:#333333;
@@ -16,8 +16,6 @@
 .ellipse {
 }
 .image {
-}
-.placeholder {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -55,6 +53,9 @@
   text-align:left;
 }
 .label {
+  font-family:'冬青黑体简体中文 W3', '冬青黑体简体中文';
+  font-weight:300;
+  font-style:normal;
   font-size:14px;
   text-align:left;
 }
@@ -62,4 +63,7 @@
   text-align:left;
 }
 .line {
+}
+.radio_button {
+  text-align:left;
 }
