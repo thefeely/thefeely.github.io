@@ -1,0 +1,438 @@
+﻿<project version="2.1" name="每当-v48" ID="BE65590D-82DC-4FC0-A19A-91014FBBAE3E" addTime="2016-04-27">
+  <params>
+    <pageParam version="4.2" minAllowVersion="4.1"/>
+    <projectParam version="2.1" minAllowVersion="2.0" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtAndroid" pageSize="(360,640)" backgroundColor="4294967295" fontSize="0" fontFamily="微软雅黑" from="FmLocal"/>
+  </params>
+  <modules>
+    <page name="---更新日志---" ID="E58AE4B7-91C6-4492-A425-6C46E3B481BB" expanded="True" code="hng1rCrWqg" thumbCode="hng1rCrWqg" status="psWhite"/>
+    <page name="结构" ID="FEFB086A-0014-E611-BAED-3C15C2C20488" expanded="True" code="cAwcFxBOEt" thumbCode="cAwcFxBOEt" status="psWhite"/>
+    <page name="推送规则" ID="A9A99CA5-DE10-4783-A862-46BB0EFB5780" expanded="True" code="vRAYtgY44N" thumbCode="vRAYtgY44N" status="psWhite"/>
+    <page name="启动" ID="3E29DC09-52C3-4773-A96C-3684DAE5A6A0" expanded="True" code="HgktJADKli" thumbCode="HgktJADKli" status="psWhite"/>
+    <page name="1.首页-树洞v1.0.5" ID="909DAB87-82B4-4BFF-A194-0BC0E2816A76" expanded="True" code="q1zmxhdIpu" thumbCode="q1zmxhdIpu" status="psWhite">
+      <page name="1.1倾述" ID="936536E9-1F14-4E02-8A68-C45FBF26EC16" expanded="True" code="FJLrNYBlJ3" thumbCode="FJLrNYBlJ3" status="psWhite">
+        <images>
+          <image key="C2C138C6DD095980629F44A8DC018F1F.svg"/>
+          <image key="543D791B3754941BFF2B36B46E384F0E.svg"/>
+        </images>
+      </page>
+      <page name="1.2表白墙" ID="3DDEE2E9-DA3B-4312-9B6B-B18610B0A127" expanded="True" code="NEH42rvRVS" thumbCode="NEH42rvRVS" status="psWhite">
+        <page name="1.2.1表白列表-附近" ID="4FA4D798-4DB3-4ED6-94B8-44DD48158D89" expanded="True" code="f3quugFqh9" thumbCode="f3quugFqh9" status="psWhite">
+          <images>
+            <image key="272406045191EFD41262383E38074218.svg"/>
+            <image key="D6D350A63BBCCF411593D3E6325E0256.svg"/>
+            <image key="C2C138C6DD095980629F44A8DC018F1F.svg"/>
+            <image key="AB82E8FCCF2631C24A67D663B4832CA3.svg"/>
+            <image key="00793058A11C58540A71BD3C2876DE89.svg"/>
+          </images>
+          <page name="2.2.1.1首次打开（询问是否GPS）" ID="F446EACF-D109-4DCA-93CA-C74F87713B30" expanded="True" code="GjMiT49Jdi" thumbCode="GjMiT49Jdi" status="psWhite"/>
+          <page name="2.2.1.2首次打开（已开GPS）" ID="73B1760B-0E7A-4D28-B15A-FFACF8A2ABD1" expanded="True" code="fMrOFOao5M" thumbCode="fMrOFOao5M" status="psWhite">
+            <images>
+              <image key="272406045191EFD41262383E38074218.svg"/>
+              <image key="D6D350A63BBCCF411593D3E6325E0256.svg"/>
+              <image key="AB82E8FCCF2631C24A67D663B4832CA3.svg"/>
+              <image key="BA2EAB857711598DA1CFBDC2B8848DF5.svg"/>
+              <image key="30EF8D8DF4DE2DEBE274ABEEAA02E00E.svg"/>
+              <image key="CC2F86A65A0587F585F9C4890BF507D1.svg"/>
+            </images>
+          </page>
+          <page name="2.2.1.3首次打开（未开GPS）" ID="C924FD00-A8C1-4A81-AE98-2E27D47CDA27" expanded="True" code="oTDX9znMAu" thumbCode="oTDX9znMAu" status="psWhite">
+            <images>
+              <image key="ADC3CF4EEC9BBB2EB5E8CB4C675DDACA.svg"/>
+            </images>
+          </page>
+          <page name="2.2.1.4无内容展示界面" ID="40F1A7BB-55E2-48BD-A3D6-64707F5A7CA3" expanded="True" code="g2EZ9H14Kf" thumbCode="g2EZ9H14Kf" status="psWhite">
+            <images>
+              <image key="272406045191EFD41262383E38074218.svg"/>
+              <image key="ADC3CF4EEC9BBB2EB5E8CB4C675DDACA.svg"/>
+              <image key="C2C138C6DD095980629F44A8DC018F1F.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="1.2.2表白列表-最新" ID="12A53148-680F-468D-9CD7-53E936365BEE" expanded="True" code="DoMm3fenK8" thumbCode="DoMm3fenK8" status="psWhite">
+          <images>
+            <image key="C2C138C6DD095980629F44A8DC018F1F.svg"/>
+            <image key="AB82E8FCCF2631C24A67D663B4832CA3.svg"/>
+            <image key="00793058A11C58540A71BD3C2876DE89.svg"/>
+          </images>
+        </page>
+        <page name="1.2.3表白编辑" ID="53571B5B-B232-41B7-8BC4-F2D654442A28" expanded="True" code="hX7NbWlWht" thumbCode="hX7NbWlWht" status="psWhite"/>
+        <page name="1.2.4短信通知" ID="D2C39753-226F-4219-8F6A-374704566F21" expanded="False" code="IWGWXdrNPj" thumbCode="IWGWXdrNPj" status="psWhite">
+          <images>
+            <image key="99F3306433F452A04737307858F73970.svg"/>
+            <image key="6823C736E1DEDB7E7698680041F8363B.svg"/>
+          </images>
+          <page name="2.2.4.1第三方支付页面" ID="3BE62939-681F-4CB9-8DEB-C72C1B5301DD" expanded="True" code="NrZ62uHXhh" thumbCode="NrZ62uHXhh" status="psWhite">
+            <page name="2.2.4.1.1支付成功弹窗" ID="A89E61DB-09A4-4B48-BBA2-4CA18253F9EC" expanded="True" code="PeSdzVIcZG" thumbCode="PeSdzVIcZG" status="psWhite"/>
+            <page name="2.2.4.1.2支付失败弹窗" ID="51400DAD-56B2-4A11-9B14-DBF4CE68C032" expanded="True" code="Kktt3SKgVH" thumbCode="Kktt3SKgVH" status="psWhite"/>
+          </page>
+        </page>
+        <page name="1.2.5表白详情" ID="3EA0EDC8-ECF4-4661-9CD8-B6BD0B6F9743" expanded="False" code="oASmtRJk6W" thumbCode="oASmtRJk6W" status="psWhite">
+          <images>
+            <image key="BA2EAB857711598DA1CFBDC2B8848DF5.svg"/>
+            <image key="30EF8D8DF4DE2DEBE274ABEEAA02E00E.svg"/>
+            <image key="CC2F86A65A0587F585F9C4890BF507D1.svg"/>
+            <image key="AB82E8FCCF2631C24A67D663B4832CA3.svg"/>
+            <image key="00793058A11C58540A71BD3C2876DE89.svg"/>
+          </images>
+        </page>
+        <page name="1.2.6表白墙使用宝典" ID="D4E4A473-8A6A-4BC9-8AE2-EC812F47780A" expanded="True" code="465eJ7EOrR" thumbCode="465eJ7EOrR" status="psWhite"/>
+      </page>
+      <page name="1.3匿名吐槽" ID="4B0A8644-4CAB-4FB2-BE5E-0D38A472A7B4" expanded="False" code="Wa8yNg9llU" thumbCode="Wa8yNg9llU" status="psWhite">
+        <page name="1.3.1吐槽列表-附近" ID="7EC731C6-8E20-4C3A-952F-C20E66BE2BBB" expanded="True" code="PJJZeWesql" thumbCode="PJJZeWesql" status="psWhite">
+          <images>
+            <image key="272406045191EFD41262383E38074218.svg"/>
+            <image key="E7D27D0E7F8913BD1359C01B0DF44F9F.svg"/>
+            <image key="AB82E8FCCF2631C24A67D663B4832CA3.svg"/>
+            <image key="00793058A11C58540A71BD3C2876DE89.svg"/>
+          </images>
+        </page>
+        <page name="1.3.2首次打开（未开GPS）" ID="F7F159F9-D33B-480D-86ED-7C47615C9898" expanded="False" code="KagjFqEOuE" thumbCode="KagjFqEOuE" status="psWhite">
+          <images>
+            <image key="ADC3CF4EEC9BBB2EB5E8CB4C675DDACA.svg"/>
+          </images>
+        </page>
+        <page name="1.3.3无内容展示界面" ID="385F8509-1EF3-4BA4-B126-1E94831E2E31" expanded="False" code="rCMUspf7kD" thumbCode="rCMUspf7kD" status="psWhite">
+          <images>
+            <image key="272406045191EFD41262383E38074218.svg"/>
+            <image key="ADC3CF4EEC9BBB2EB5E8CB4C675DDACA.svg"/>
+            <image key="C2C138C6DD095980629F44A8DC018F1F.svg"/>
+          </images>
+        </page>
+      </page>
+      <page name="1.4自拍秀" ID="67D7EF82-15AC-4C22-8C1E-100B023B5000" expanded="False" code="9rx1trNk4m" thumbCode="9rx1trNk4m" status="psWhite">
+        <page name="1.4.1表白列表-最新" ID="A86E3C1D-BAA2-4882-9ABB-82AD6D570C8F" expanded="True" code="qarvyDcj69" thumbCode="qarvyDcj69" status="psWhite">
+          <images>
+            <image key="C2C138C6DD095980629F44A8DC018F1F.svg"/>
+            <image key="AB82E8FCCF2631C24A67D663B4832CA3.svg"/>
+            <image key="00793058A11C58540A71BD3C2876DE89.svg"/>
+          </images>
+        </page>
+        <page name="1.4.2自拍秀-附近" ID="E8048505-B6C1-4651-8FBD-451B06C24FDA" expanded="True" code="oAsyNohUjx" thumbCode="oAsyNohUjx" status="psWhite">
+          <images>
+            <image key="AB82E8FCCF2631C24A67D663B4832CA3.svg"/>
+            <image key="00793058A11C58540A71BD3C2876DE89.svg"/>
+          </images>
+        </page>
+        <page name="1.4.3首次打开（未开GPS）" ID="082C7942-2C2F-4E82-BEF3-16D90B0FF2B8" expanded="False" code="p8nJhiT4Wr" thumbCode="p8nJhiT4Wr" status="psWhite">
+          <images>
+            <image key="ADC3CF4EEC9BBB2EB5E8CB4C675DDACA.svg"/>
+          </images>
+        </page>
+        <page name="1.4.4无内容展示界面" ID="138DCB7C-C883-4694-8074-E617D47D4DDF" expanded="False" code="IsO1JeEGzS" thumbCode="IsO1JeEGzS" status="psWhite">
+          <images>
+            <image key="272406045191EFD41262383E38074218.svg"/>
+            <image key="ADC3CF4EEC9BBB2EB5E8CB4C675DDACA.svg"/>
+            <image key="C2C138C6DD095980629F44A8DC018F1F.svg"/>
+          </images>
+        </page>
+      </page>
+      <page name="1.5分享" ID="19684F92-2CAC-49EA-8C8A-C95022D7AF85" expanded="True" code="XzqQQP3wW5" thumbCode="XzqQQP3wW5" status="psWhite">
+        <images>
+          <image key="BA2EAB857711598DA1CFBDC2B8848DF5.svg"/>
+          <image key="AB82E8FCCF2631C24A67D663B4832CA3.svg"/>
+        </images>
+        <page name="1.5.1分享-没有评论" ID="C22E5B46-0783-4072-A359-55D96125B178" expanded="False" code="nOujUKsgDN" thumbCode="nOujUKsgDN" status="psWhite">
+          <images>
+            <image key="BA2EAB857711598DA1CFBDC2B8848DF5.svg"/>
+            <image key="AB82E8FCCF2631C24A67D663B4832CA3.svg"/>
+          </images>
+        </page>
+        <page name="1.5.2分享到平台的显示效果" ID="37CCD329-3AEE-4323-AF0C-3E497C1DE6AF" expanded="True" code="M8ttfuspVI" thumbCode="M8ttfuspVI" status="psWhite">
+          <images>
+            <image key="F6A05D3BE8F3FC3B5499ACBB2A920D47.svg"/>
+          </images>
+        </page>
+      </page>
+    </page>
+    <page name="2话题" ID="1D903617-16DC-4E3B-81F4-848E7C292BE9" expanded="False" code="tZkVr9qE1G" thumbCode="tZkVr9qE1G" status="psWhite">
+      <images>
+        <image key="B9E66B5540EFF3A68054ED37F5219FB6.png"/>
+      </images>
+      <page name="2.1历史" ID="5376B463-4271-4F2E-9D72-16C85F129054" expanded="True" code="FxyJxbL1FY" thumbCode="FxyJxbL1FY" status="psWhite">
+        <images>
+          <image key="B9E66B5540EFF3A68054ED37F5219FB6.png"/>
+        </images>
+      </page>
+      <page name="2.2右滑提示v37去掉" ID="7680922E-E23C-4E98-BD5A-181D136C47B4" expanded="False" code="5YCvXQolR8" thumbCode="5YCvXQolR8" status="psWhite">
+        <images>
+          <image key="B9E66B5540EFF3A68054ED37F5219FB6.png"/>
+          <image key="48A0ADA04F7281A5D61E79F41EC15E6D.png"/>
+        </images>
+      </page>
+    </page>
+    <page name="3聊天" ID="6A44C549-4F2A-44F5-9914-BBBF4337F606" expanded="False" code="zKBzaojB6D" thumbCode="zKBzaojB6D" status="psWhite">
+      <page name="3.1语音消息" ID="CF2F7AD9-2B63-412E-A505-204789C536BE" expanded="False" code="KqYaY7U86t" thumbCode="KqYaY7U86t" status="psWhite">
+        <page name="3.1.1录制弹窗" ID="5027C405-E448-4287-88BB-4B08DA449D5D" expanded="False" code="eblYLnk75L" thumbCode="eblYLnk75L" status="psWhite"/>
+      </page>
+      <page name="输入框有文字" ID="70F6111D-0071-46DC-B57D-7DFEB38971E2" expanded="True" code="hjAalUW7r9" thumbCode="hjAalUW7r9" status="psWhite"/>
+      <page name="添加选择框" ID="91F33226-A5C1-4449-A84E-8A195AE866E1" expanded="False" code="h1k5VL3SZr" thumbCode="h1k5VL3SZr" status="psWhite"/>
+    </page>
+    <page name="4登录" ID="50799409-62D9-4F62-90C0-794192D2C4F0" expanded="False" code="tzvW3A4fbG" thumbCode="tzvW3A4fbG" status="psWhite">
+      <page name="4.1重置密码v1.0.2" ID="DF211C45-374B-43EB-8C46-E93F3D9D58E5" expanded="True" code="VRed2OAPJG" thumbCode="VRed2OAPJG" status="psWhite"/>
+    </page>
+    <page name="5注册" ID="DDB8EE9D-A374-4BB9-A3C4-EBC3BEA478F9" expanded="False" code="fBdIgqT4SC" thumbCode="fBdIgqT4SC" status="psWhite">
+      <page name="5.1注册-填资料" ID="EC33E7A0-3794-4848-8F70-77ED415C66B7" expanded="True" code="acknKGFcEb" thumbCode="acknKGFcEb" status="psWhite">
+        <images>
+          <image key="8B9637BEBA22D7AFC8E9C6D17B25CB44.png"/>
+        </images>
+      </page>
+      <page name="5.2用户协议" ID="67936D4E-3457-4CA3-A87A-DB49EA5A740A" expanded="True" code="6SfqGEzzPm" thumbCode="6SfqGEzzPm" status="psWhite"/>
+      <page name="验证按钮样式" ID="E25142DD-63CD-414B-9015-AEDA068EFD48" expanded="True" code="eOo7KK6aag" thumbCode="eOo7KK6aag" status="psWhite"/>
+    </page>
+    <page name="6设置" ID="EE94C34C-5BC2-4094-8DF2-B581B3BA0509" expanded="True" code="ADWJiB8gtD" thumbCode="2Ho7zqhQz1" status="psWhite" isLastOpen="True">
+      <page name="6.1消息通知" ID="09F508AB-2E66-46AE-805C-B7E5361BA77E" expanded="True" code="fcaC5AqqLs" thumbCode="fcaC5AqqLs" status="psWhite"/>
+      <page name="6.2退出登录弹窗" ID="1585EAC6-E718-4C97-A658-48273A2DCABD" expanded="True" code="UyQBuUFgj3" thumbCode="UyQBuUFgj3" status="psWhite"/>
+    </page>
+    <page name="7咨询" ID="E19B0D0D-062B-4298-8F4E-C5348274A404" expanded="True" code="2thIjB5Zdn" thumbCode="ygEowO9VSt" status="psWhite">
+      <page name="7.1用户界面" ID="1AE57EA6-E400-475C-A67A-5630441B1232" expanded="True" code="ISUweebDOm" thumbCode="OCCkny9zvm" status="psWhite">
+        <images>
+          <image key="6EE140726548992D82F763CCD21EF6A1.svg"/>
+        </images>
+        <page name="(7.1.1达人详情页" ID="6EF14506-5BB2-443A-B811-C2652811FF34" expanded="True" code="OXqoNPpJHn" thumbCode="jLHYwsDLUV" status="psWhite">
+          <images>
+            <image key="79ED9A8A5E935F1718B121288CC5FAF0.svg"/>
+          </images>
+          <page name="7.1.1.1达人介绍" ID="02C8C41C-ECD0-423D-BFCB-7ED8291ABF7E" expanded="False" code="o4HZlkoVYn" thumbCode="o4HZlkoVYn" status="psWhite"/>
+          <page name="7.1.1.2回答列表" ID="3CF31072-64F2-4C4C-B09A-B52C25EF6634" expanded="True" code="E1Ej9imQKm" thumbCode="E1Ej9imQKm" status="psWhite"/>
+          <page name="7.1.1.3讲述列表" ID="81A198C3-524E-47DC-B2D7-8485F1251015" expanded="False" code="GxS6sBGnYA" thumbCode="GxS6sBGnYA" status="psWhite"/>
+          <page name="(7.1.1.4支付页面" ID="D8BC4A65-44EB-48A7-852A-0BD4A5141D1C" expanded="False" code="D9y72XSaom" thumbCode="D9y72XSaom" status="psWhite">
+            <page name="支付等待页面" ID="E39C714A-616C-45EB-B49C-95A8A9B5D31C" expanded="True" code="Te4J3eEYzh" thumbCode="Te4J3eEYzh" status="psWhite"/>
+          </page>
+          <page name="(7.1.1.5付费私聊" ID="0ED7001E-DCDD-46AE-9D04-44D45858BF76" expanded="False" code="F4haTCRKDe" thumbCode="T9cjz1UuMF" status="psWhite">
+            <page name="支付成功" ID="6B638961-FE41-4F7E-9175-7A8AC2716674" expanded="True" code="ted9ST7aCg" thumbCode="6dadSXOe1N" status="psWhite">
+              <page name="私聊24小时弹窗" ID="C56EE518-C909-4202-BE44-385C7B8583EE" expanded="True" code="dSuSsKYx8N" thumbCode="dSuSsKYx8N" status="psWhite"/>
+              <page name="再次私聊支付成功" ID="C846A7CF-224D-4C7F-BB65-1A84BC9D5819" expanded="False" code="ze8FFlu5sU" thumbCode="ze8FFlu5sU" status="psWhite"/>
+              <page name="再次私聊支付失败" ID="1FC0C8D2-FC90-4B24-BE8D-8EFD001485F6" expanded="True" code="gbl7wkK5tp" thumbCode="gbl7wkK5tp" status="psWhite"/>
+            </page>
+            <page name="支付失败" ID="CF141207-8B2F-48F3-BF63-78E3F6C6C28B" expanded="False" code="mDlRFd5lT9" thumbCode="mDlRFd5lT9" status="psWhite"/>
+          </page>
+        </page>
+        <page name="(7.1.2咨询记录" ID="B32B0FA2-89E6-4FEF-90F4-9C6ACDC1711E" expanded="True" code="lu7539AsEj" thumbCode="auQR4l5ycA" status="psWhite">
+          <page name="(7.1.2.1问题编辑页面" ID="4C7F7F5A-3152-47BA-94AF-6D501350CAC4" expanded="True" code="HtQEiBalYq" thumbCode="Z3TJTqDBGX" status="psWhite">
+            <images>
+              <image key="C01616E05E7E06B7F52A178F6BDD5BF2.svg"/>
+            </images>
+            <page name="咨询小贴士" ID="49549F0A-278D-4178-97CC-D3A98BC2E757" expanded="True" code="vwDhV4P2EV" thumbCode="vwDhV4P2EV" status="psWhite">
+              <images>
+                <image key="C01616E05E7E06B7F52A178F6BDD5BF2.svg"/>
+              </images>
+            </page>
+            <page name="支付成功" ID="633AC545-2618-4EDF-8851-D19879AF362D" expanded="True" code="v2V1BhO5NM" thumbCode="v2V1BhO5NM" status="psWhite"/>
+            <page name="支付失败" ID="D282A7E7-8662-4CEB-BAC0-254F751DA50D" expanded="True" code="kQuMbjSJfg" thumbCode="kQuMbjSJfg" status="psWhite">
+              <images>
+                <image key="C01616E05E7E06B7F52A178F6BDD5BF2.svg"/>
+              </images>
+            </page>
+          </page>
+          <page name="7.1.2.2问题展示界面-咨询模块" ID="DB9ACAF0-3ABF-4B1C-A55D-33D66E7E5F2F" expanded="True" code="oHeGmBvEM4" thumbCode="oHeGmBvEM4" status="psWhite"/>
+          <page name="7.1.2.3问题展示界面-讲述模块" ID="DEAB556A-F945-4810-90FC-6B7AFEBBF10B" expanded="True" code="ewzqrExpQq" thumbCode="ewzqrExpQq" status="psWhite">
+            <images>
+              <image key="6E62C52EE3F0028E2C47D01CA2F90048.svg"/>
+            </images>
+          </page>
+        </page>
+      </page>
+      <page name="7.2达人界面" ID="822C4A1F-DB0E-4284-B7E0-2C476FB6DA2D" expanded="True" code="K9Cu78yGTu" thumbCode="K9Cu78yGTu" status="psWhite">
+        <images>
+          <image key="6EE140726548992D82F763CCD21EF6A1.svg"/>
+        </images>
+        <page name="7.2.1已处理" ID="BDFF8B60-11F6-40B6-8802-A6EC96A6A296" expanded="False" code="seYCz2aBix" thumbCode="seYCz2aBix" status="psWhite"/>
+        <page name="7.2.2回答页面" ID="97B60CF3-B669-4DBB-A335-66138CB37D3A" expanded="True" code="SHlBUqr7YF" thumbCode="SHlBUqr7YF" status="psWhite"/>
+      </page>
+    </page>
+    <page name="8我" ID="75DAE9F4-FC00-4717-B4E3-7CE36845DE5A" expanded="False" code="CbM9QKcvYN" thumbCode="WPkdDJMcXM" status="psWhite">
+      <images>
+        <image key="2112B7E55DAF9D82C55B9C9CC1E1FDC0.svg"/>
+      </images>
+      <page name="8.1消息" ID="E6ED7D07-0A6D-41CB-B1CD-80CCF8FE5B4D" expanded="False" code="x77K3s7Eb9" thumbCode="x77K3s7Eb9" status="psWhite">
+        <page name="删除弹窗" ID="05EAA819-E132-4949-9716-C6356F97D661" expanded="False" code="BGEKtfpWvB" thumbCode="BGEKtfpWvB" status="psWhite"/>
+        <page name="关闭提醒" ID="19E5DEC5-F2D3-4682-8805-F4FCEF289F1D" expanded="True" code="fPDfYwU5vx" thumbCode="fPDfYwU5vx" status="psWhite"/>
+        <page name="6.1评论" ID="A948AF65-AAE6-4B7B-8957-F3812F3629CB" expanded="True" code="CAOg4CuLWR" thumbCode="CAOg4CuLWR" status="psWhite"/>
+        <page name="6.2赞" ID="D9312175-F67F-4992-814E-98819E14C403" expanded="True" code="jIYjJgCDoZ" thumbCode="jIYjJgCDoZ" status="psWhite"/>
+        <page name="6.3单聊" ID="2B707E3F-0196-4486-A7A5-608345F37D8D" expanded="False" code="UaZjYjVrZ6" thumbCode="UaZjYjVrZ6" status="psWhite"/>
+      </page>
+      <page name="8.2用户详情" ID="1D82AA15-C066-4EBF-A497-4DEBA8C29B29" expanded="False" code="AxxWjmZNXf" thumbCode="AxxWjmZNXf" status="psWhite">
+        <page name="举报弹窗" ID="2E44A2A7-897C-4AA2-AC50-61AA6B1AF8E0" expanded="True" code="5BNX5Cec2m" thumbCode="5BNX5Cec2m" status="psWhite"/>
+      </page>
+      <page name="8.3我的表白" ID="246D9321-1A8D-4099-9754-3FA39795A2A8" expanded="True" code="xHZY3OOYeI" thumbCode="xHZY3OOYeI" status="psWhite">
+        <images>
+          <image key="00793058A11C58540A71BD3C2876DE89.svg"/>
+        </images>
+      </page>
+      <page name="8.4我的吐槽" ID="EC2C462E-5AC6-4959-AD85-37951B5A5BB6" expanded="True" code="pfstZQ9bBM" thumbCode="pfstZQ9bBM" status="psWhite">
+        <images>
+          <image key="00793058A11C58540A71BD3C2876DE89.svg"/>
+        </images>
+      </page>
+      <page name="8.5我的自拍" ID="F35F263A-8F9F-4037-A318-EAFA8CF4BF60" expanded="False" code="sqsU57GBPu" thumbCode="sqsU57GBPu" status="psWhite">
+        <images>
+          <image key="00793058A11C58540A71BD3C2876DE89.svg"/>
+        </images>
+      </page>
+      <page name="8.6意见反馈" ID="799D6CA5-E0AD-4276-ABA1-F09C8523B283" expanded="True" code="fWfnrj3qO7" thumbCode="fWfnrj3qO7" status="psWhite"/>
+    </page>
+    <page name="9积分" ID="8538D08B-E52B-49BA-9B43-5CAEF1FB5A5C" expanded="False" code="PPTmtRv9cH" thumbCode="PPTmtRv9cH" status="psWhite"/>
+    <page name="（10.用户话题展示" ID="DCF184E2-59CA-439F-B27E-C423B48CEDB4" expanded="False" code="ukxLo9vAw7" thumbCode="ukxLo9vAw7" status="psWhite">
+      <images>
+        <image key="B9E66B5540EFF3A68054ED37F5219FB6.png"/>
+        <image key="484F06A9C6334CC714EFCD2218296313.png"/>
+        <image key="809D4A1A2832A38A7AC8D854D9B5C7AE.svg"/>
+      </images>
+      <page name="12.1话题详情" ID="81A6DBD3-9C2E-4825-9416-31C690ABA474" expanded="True" code="DORh1nUKjt" thumbCode="DORh1nUKjt" status="psWhite"/>
+      <page name="喜欢、不喜欢重复点击提示框" ID="D775C971-040F-4CE7-B55F-57A3959A6D9D" expanded="True" code="K4jJTgwnH1" thumbCode="K4jJTgwnH1" status="psWhite">
+        <images>
+          <image key="B9E66B5540EFF3A68054ED37F5219FB6.png"/>
+          <image key="809D4A1A2832A38A7AC8D854D9B5C7AE.svg"/>
+        </images>
+      </page>
+    </page>
+    <page name="-------------分割线---------------" ID="18E06036-A5AE-4CD8-8032-A387F12FC506" expanded="True" code="lGF9U7NcaW" thumbCode="lGF9U7NcaW" status="psWhite"/>
+    <page name="首页-未登录样式" ID="CC0A2122-0F10-4B91-85F7-FE005DE1E557" expanded="True" code="zbhyfaHMJW" thumbCode="zbhyfaHMJW" status="psWhite"/>
+    <page name="查看大图页" ID="F3EB7782-5378-46AE-B221-E52EA0D9B575" expanded="True" code="POHVLoEW8h" thumbCode="POHVLoEW8h" status="psWhite"/>
+    <page name="讲述列表管理" ID="DD2C1FE4-FCCF-41AC-8536-3E664E1195AD" expanded="False" code="MnoZHWsPpo" thumbCode="MnoZHWsPpo" status="psWhite">
+      <page name="删除+置顶弹窗样式" ID="4DD7477C-A667-42D7-B521-68A0F2E75309" expanded="False" code="eTeIQs2sAn" thumbCode="eTeIQs2sAn" status="psWhite"/>
+    </page>
+    <page name="讲述详情管理" ID="C6D6529D-52F7-473A-BCD3-C00291047C1E" expanded="False" code="E1YUFJhnuO" thumbCode="E1YUFJhnuO" status="psWhite">
+      <page name="删除弹窗样式" ID="80E0104F-57A9-4E16-A30C-7AAD7D55F506" expanded="True" code="j7PNzTfpL7" thumbCode="j7PNzTfpL7" status="psWhite"/>
+    </page>
+    <page name="留言（样式2）" ID="DEBDA9E6-BE3B-4C1B-94C1-7EC2BD528559" expanded="False" code="CbYtC1VXqU" thumbCode="CbYtC1VXqU" status="psWhite"/>
+    <page name="讲述（样式2）" ID="E9EEB51D-07A6-4DE4-AB6C-A1E0CFA60548" expanded="False" code="E22ln5Hw1D" thumbCode="E22ln5Hw1D" status="psWhite"/>
+    <page name="分享弹窗" ID="109CE20F-4D06-4C41-B8E5-7FDAC2C1221A" expanded="False" code="g1xbORS1iw" thumbCode="g1xbORS1iw" status="psWhite"/>
+    <page name="全局上拉加载动画" ID="7F0044E1-BB9C-4611-BF4B-715359F4B368" expanded="False" code="vY1smOp2QS" thumbCode="vY1smOp2QS" status="psWhite"/>
+    <page name="全局页面加载动画" ID="D287345A-C46F-41D6-A6AA-E9FB424FA169" expanded="True" code="vqhzKwpXkd" thumbCode="vqhzKwpXkd" status="psWhite"/>
+    <page name="引导页" ID="4567BC92-4E8B-4BDF-B80D-6770C595AA99" expanded="False" code="Qzy8xfeTMb" thumbCode="Qzy8xfeTMb" status="psWhite">
+      <images>
+        <image key="24899F2BA0068FD092AB5BDF2934E602.png"/>
+        <image key="B1E20B732EA37D5A136C2A8E3608D742.png"/>
+      </images>
+    </page>
+    <page name="原图查看页" ID="5862EEB0-4AA5-4B88-9DB6-6E934B869D8F" expanded="True" code="adT9NRxJdS" thumbCode="adT9NRxJdS" status="psWhite">
+      <images>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+      </images>
+    </page>
+    <page name="更新提示窗" ID="A1FE954B-FEBF-4C4D-BF90-1ADBD92B89BD" expanded="True" code="4GsBbjnEpK" thumbCode="iiLKoKGe8t" status="psWhite">
+      <page name="页面" ID="60C2A789-22FB-4CB7-9DC8-4544CE496AED" expanded="True" code="vMVqX6O3jT" thumbCode="vMVqX6O3jT" status="psWhite"/>
+    </page>
+    <page name="已去" ID="175CD9E6-EEAA-401A-BD95-1558448584FC" expanded="False" code="rargkrXUqX" thumbCode="rargkrXUqX" status="psWhite">
+      <page name="0昨日精选载入动画" ID="E89E7611-675B-421E-8722-06101DE40E2A" expanded="True" code="RPLCljYczG" thumbCode="RPLCljYczG" status="psWhite"/>
+      <page name="1昨日精选" ID="561F0FD9-5B09-4637-87EF-337924875498" expanded="False" code="CtluRTzvoo" thumbCode="CtluRTzvoo" status="psWhite">
+        <images>
+          <image key="E5DB1B082FE01ECF7CDC7D97494A7CDC.png"/>
+        </images>
+        <page name="展开样式" ID="64EC0A4D-D680-4960-B9F7-8ED7FB7216A4" expanded="False" code="dSMgdrE21q" thumbCode="dSMgdrE21q" status="psWhite">
+          <images>
+            <image key="E5DB1B082FE01ECF7CDC7D97494A7CDC.png"/>
+          </images>
+        </page>
+        <page name="关闭弹窗" ID="B357140F-1D7F-4D3C-B502-2E65ACCD8508" expanded="True" code="muyOeoW8p9" thumbCode="muyOeoW8p9" status="psWhite"/>
+        <page name="分享弹窗" ID="1CB8909E-AE0F-408F-BECE-2EAC319805D9" expanded="True" code="peRPge7IPn" thumbCode="peRPge7IPn" status="psWhite">
+          <page name="昨日最佳-分享结果" ID="55700080-CB1D-4592-A479-2C9DA715F532" expanded="True" code="WnRlpttnoU" thumbCode="WnRlpttnoU" status="psWhite"/>
+          <page name="精选语录-分享页面" ID="B80EB9C1-CA31-4D50-9CB8-963898001752" expanded="False" code="1IP8jtWdUR" thumbCode="1IP8jtWdUR" status="psWhite"/>
+          <page name="精华讲述-分享页面" ID="BC552AE9-4856-4EBE-9E2C-7A0DAB7C2898" expanded="True" code="wBx1FpqOdt" thumbCode="wBx1FpqOdt" status="psWhite"/>
+        </page>
+      </page>
+      <page name="5创建话题" ID="F746AFC9-E1DA-4BE6-82F5-601328991307" expanded="False" code="qRSEK43Ltj" thumbCode="qRSEK43Ltj" status="psWhite">
+        <page name="5.1创建话题" ID="5184A888-79F9-472B-A7FA-9F5C05A805EB" expanded="True" code="jVhbF1rxBO" thumbCode="jVhbF1rxBO" status="psWhite"/>
+        <page name="5.2创建成功" ID="9B38B21F-143F-438D-8C05-F85EBD11C9D7" expanded="True" code="ARPVBoAf9K" thumbCode="ARPVBoAf9K" status="psWhite">
+          <page name="分享页面" ID="105FD9A2-D179-4AF1-878A-ECE44FAE8DA9" expanded="True" code="vw9YQiywL6" thumbCode="vw9YQiywL6" status="psWhite"/>
+        </page>
+        <page name="话题返回弹窗" ID="65713934-F454-4AF6-ABA5-9C0732AD04F7" expanded="True" code="gHDEsmCpDl" thumbCode="gHDEsmCpDl" status="psWhite"/>
+        <page name="标题超长弹窗" ID="F7B5EE2C-133C-44AE-A2F6-CA3AC0928E67" expanded="False" code="QRiaELUi9n" thumbCode="QRiaELUi9n" status="psWhite"/>
+        <page name="创建加载动画" ID="2DB04175-D0FC-4D5E-8E9C-852FC01AA0C4" expanded="True" code="XYfdKcy55C" thumbCode="XYfdKcy55C" status="psWhite"/>
+      </page>
+      <page name="8侧栏分类" ID="94E61B5C-3622-4A81-90A1-53DE52661268" expanded="False" code="fmvqHlOAs6" thumbCode="fmvqHlOAs6" status="psWhite">
+        <page name="8.1我的" ID="AD6C5D04-E536-469C-980C-7B2A5C95E370" expanded="True" code="RNkBbkqNlf" thumbCode="RNkBbkqNlf" status="psWhite">
+          <page name="8.1.1修改资料" ID="F5112FA2-E1C3-4065-895C-056F6C99294A" expanded="True" code="iBjtKuKj8l" thumbCode="iBjtKuKj8l" status="psWhite">
+            <page name="8.1.1.1修改密码v1.0.2" ID="74788330-4D0C-45B9-AD04-C12562C50ACE" expanded="True" code="OHAdm9A14Y" thumbCode="OHAdm9A14Y" status="psWhite"/>
+          </page>
+          <page name="修改资料返回弹窗" ID="1B31804F-A747-4B87-AF16-2B108D482817" expanded="False" code="EFa6Dv2SDo" thumbCode="EFa6Dv2SDo" status="psWhite"/>
+        </page>
+      </page>
+    </page>
+    <page name="已改" ID="DC167539-59F0-4640-8AA1-CAAC36CD95B9" expanded="False" code="AWexdwhALE" thumbCode="AWexdwhALE" status="psWhite">
+      <page name="2首页" ID="516F4971-F01E-46FC-8B52-229B22EC2C3A" expanded="False" code="E8flW1rBl2" thumbCode="E8flW1rBl2" status="psWhite">
+        <images>
+          <image key="B9E66B5540EFF3A68054ED37F5219FB6.png"/>
+        </images>
+        <page name="2.1历史" ID="B6345FD7-4BDA-4949-B3CF-8C024663F989" expanded="True" code="ytzzMCj3ng" thumbCode="ytzzMCj3ng" status="psWhite">
+          <images>
+            <image key="B9E66B5540EFF3A68054ED37F5219FB6.png"/>
+          </images>
+        </page>
+        <page name="2.2右滑提示v37去掉" ID="C24EDA4A-BA3C-4CE8-BC4B-57C514FBC32E" expanded="False" code="d1rfIbZ1RW" thumbCode="d1rfIbZ1RW" status="psWhite">
+          <images>
+            <image key="B9E66B5540EFF3A68054ED37F5219FB6.png"/>
+            <image key="48A0ADA04F7281A5D61E79F41EC15E6D.png"/>
+          </images>
+        </page>
+        <page name="2.3精选" ID="0E864A6A-D31C-46C0-BEC6-DFAE1DD5C870" expanded="True" code="UoBMBgMLI6" thumbCode="UoBMBgMLI6" status="psWhite">
+          <page name="2.3.1精选单页" ID="CD7DDBCC-2AFD-4859-A56B-052A9BC5D9CA" expanded="True" code="XJvYP28Jjj" thumbCode="XJvYP28Jjj" status="psWhite">
+            <images>
+              <image key="E5DB1B082FE01ECF7CDC7D97494A7CDC.png"/>
+            </images>
+          </page>
+        </page>
+      </page>
+      <page name="4讲述列表" ID="5DB942FE-20D8-4C85-9BCC-DDDDCB47669E" expanded="True" code="ietpdtym1I" thumbCode="ietpdtym1I" status="psWhite">
+        <page name="4.1讲述单页" ID="DDC1DD51-ED43-40E6-A668-4750C641DFCD" expanded="True" code="gvoDND8aXg" thumbCode="gvoDND8aXg" status="psWhite">
+          <page name="回复某人样式" ID="06DEF54D-E9AB-43E8-8F4E-F7110C28D77E" expanded="True" code="3bt7rV6USj" thumbCode="3bt7rV6USj" status="psWhite"/>
+          <page name="载入加载动画" ID="307CFA03-45F6-4AA1-B43E-B6D423CDF391" expanded="False" code="OnQFPbOwp4" thumbCode="OnQFPbOwp4" status="psWhite"/>
+        </page>
+        <page name="4.2我要讲述" ID="00D36436-4F6C-477E-B691-9680E3A3DE10" expanded="True" code="bvTxvKeXio" thumbCode="bvTxvKeXio" status="psWhite">
+          <page name="编辑样式" ID="3A747663-5DFF-4671-86A8-6FF196B5E3F4" expanded="True" code="q62SFlBmzU" thumbCode="q62SFlBmzU" status="psWhite">
+            <images>
+              <image key="5F0069AD47089729FE7B1DEB96F4E087.jpg"/>
+            </images>
+          </page>
+          <page name="编辑样式-键盘弹出" ID="40BED8FD-94C0-4389-ABFA-59595F4F87C1" expanded="True" code="EyyUxaL5wn" thumbCode="EyyUxaL5wn" status="psWhite">
+            <images>
+              <image key="5F0069AD47089729FE7B1DEB96F4E087.jpg"/>
+            </images>
+          </page>
+          <page name="提交加载动画" ID="9AD5C233-8FB6-4D5D-AE66-B758E2E31488" expanded="True" code="vpJeqHscT4" thumbCode="vpJeqHscT4" status="psWhite">
+            <images>
+              <image key="5F0069AD47089729FE7B1DEB96F4E087.jpg"/>
+            </images>
+          </page>
+          <page name="讲述返回弹窗" ID="18B81922-567F-47E2-9637-F4E661867BD0" expanded="True" code="4YNFQ8DMMF" thumbCode="4YNFQ8DMMF" status="psWhite"/>
+        </page>
+      </page>
+    </page>
+  </modules>
+  <masters/>
+  <images>
+    <image key="B9E66B5540EFF3A68054ED37F5219FB6.png"/>
+    <image key="5F0069AD47089729FE7B1DEB96F4E087.jpg"/>
+    <image key="E5DB1B082FE01ECF7CDC7D97494A7CDC.png"/>
+    <image key="8B9637BEBA22D7AFC8E9C6D17B25CB44.png"/>
+    <image key="48A0ADA04F7281A5D61E79F41EC15E6D.png"/>
+    <image key="809D4A1A2832A38A7AC8D854D9B5C7AE.svg"/>
+    <image key="484F06A9C6334CC714EFCD2218296313.png"/>
+    <image key="24899F2BA0068FD092AB5BDF2934E602.png"/>
+    <image key="B1E20B732EA37D5A136C2A8E3608D742.png"/>
+    <image key="6EE140726548992D82F763CCD21EF6A1.svg"/>
+    <image key="C01616E05E7E06B7F52A178F6BDD5BF2.svg"/>
+    <image key="79ED9A8A5E935F1718B121288CC5FAF0.svg"/>
+    <image key="543D791B3754941BFF2B36B46E384F0E.svg"/>
+    <image key="6E62C52EE3F0028E2C47D01CA2F90048.svg"/>
+    <image key="272406045191EFD41262383E38074218.svg"/>
+    <image key="D6D350A63BBCCF411593D3E6325E0256.svg"/>
+    <image key="AB82E8FCCF2631C24A67D663B4832CA3.svg"/>
+    <image key="BA2EAB857711598DA1CFBDC2B8848DF5.svg"/>
+    <image key="30EF8D8DF4DE2DEBE274ABEEAA02E00E.svg"/>
+    <image key="CC2F86A65A0587F585F9C4890BF507D1.svg"/>
+    <image key="ADC3CF4EEC9BBB2EB5E8CB4C675DDACA.svg"/>
+    <image key="C2C138C6DD095980629F44A8DC018F1F.svg"/>
+    <image key="00793058A11C58540A71BD3C2876DE89.svg"/>
+    <image key="99F3306433F452A04737307858F73970.svg"/>
+    <image key="6823C736E1DEDB7E7698680041F8363B.svg"/>
+    <image key="E7D27D0E7F8913BD1359C01B0DF44F9F.svg"/>
+    <image key="2112B7E55DAF9D82C55B9C9CC1E1FDC0.svg"/>
+    <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+    <image key="F6A05D3BE8F3FC3B5499ACBB2A920D47.svg"/>
+  </images>
+  <others>
+    <favoriteColors/>
+  </others>
+</project>

@@ -1,0 +1,357 @@
+﻿<mockup version="4.2" platform="MtMobile" defaultW="360" defaultH="640" from="FmLocal" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" ID="9B38B21F-143F-438D-8C05-F85EBD11C9D7" measureW="360" measureH="640" clipArea="(0,0,0,0)" minAllowVersion="4.1">
+  <controls controlCount="14">
+    <control controlID="57D6DC52-16AD-4C7D-A2F7-5171EEAC1A53" controlTypeID="StickyNote" isShow="True" caption="%E4%BE%BF%E7%AD%BE%E6%9D%A1" x="-232" y="20" w="182" h="102" measuredW="109" measuredH="123" zOrder="0" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294033970" borderVisible="True" borderColor="0" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="True" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmSlideLeft" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{F81BD05D-BD7C-4053-AA33-D0E4DE89F933}" coords="(0,0,182,102)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{B1D764A6-7B80-4E58-BC2F-0AED0161D113}" coords="(0,0,182,102)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="14" textFontFamily="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" lineSpacingMultiple="1" textAlign="HaLeft" textVAlign="VaTop" textWordWrap="True" textStyles="[]" useDefaultTextSize="True">
+          <text>%E7%82%B9%E5%87%BB%E9%81%AE%E7%BD%A9%E5%B1%82%2F%E6%AE%8B%E5%BF%8D%E6%8B%92%E7%BB%9D%E6%8C%89%E9%92%AE+%E5%9D%87%E5%85%B3%E9%97%AD%E5%BC%B9%E7%AA%97</text>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+        <isShowTabBar>True</isShowTabBar>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+    </control>
+    <control controlID="6448CC21-4E48-424F-8E3B-35F64A2D2366" controlTypeID="ModalScreen" isShow="True" caption="%E9%81%AE%E7%BD%A9" x="0" y="0" w="360" h="640" measuredW="318" measuredH="240" zOrder="1" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="1711276032" borderVisible="True" borderColor="0" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="200">
+          <link targetPageID="516F4971-F01E-46FC-8B52-229B22EC2C3A" linkType="ltPageLink" isApplyIncludePage="False" title="2%E9%A6%96%E9%A1%B5">
+            <area shape="0" alt="" ID="{E9A4AC77-1F36-447E-9FED-29B0BCD6064F}" coords="(0,0,360,640)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{C4A51AD3-6C3D-427F-909C-CB64DAA24D7B}" coords="(0,0,360,640)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+    </control>
+    <control controlID="32537DCA-2008-4203-AAF3-8C5C161D4F8C" controlTypeID="Shape" isShow="True" caption="%E5%BD%A2%E7%8A%B6" x="58" y="173" w="243" h="221" measuredW="120" measuredH="100" zOrder="2" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="True" borderColor="4282664004" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmSlideLeft" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{A0F15E17-F8C3-46D7-9C24-3D8D3B7F6FC5}" coords="(0,0,243,221)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{46735F61-3CDB-4222-AC19-FD99B959D25F}" coords="(0,0,243,221)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="14" textFontFamily="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+        <shapeBorderType>SbRectangle</shapeBorderType>
+        <triangleType>TdZero</triangleType>
+        <dashMode>SdSolid</dashMode>
+        <rectangleBorderLeftVisible>True</rectangleBorderLeftVisible>
+        <rectangleBorderRightVisible>True</rectangleBorderRightVisible>
+        <rectangleBorderTopVisible>True</rectangleBorderTopVisible>
+        <rectangleBorderBottomVisible>True</rectangleBorderBottomVisible>
+        <radius>0</radius>
+        <thickness>1</thickness>
+        <radiusIsPercent>True</radiusIsPercent>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+      <radius>0</radius>
+    </control>
+    <control controlID="9F987714-9C3B-4434-B9B2-1A4D6F6B982B" controlTypeID="Label" isShow="True" caption="%E5%8D%95%E8%A1%8C%E6%96%87%E5%AD%97" x="150" y="183" w="63" h="22" measuredW="0" measuredH="0" zOrder="3" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="16777215" borderVisible="True" borderColor="0" isAutoSize="True" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmSlideLeft" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{B4127E94-BC55-48BE-A6A5-C33E66E4F62C}" coords="(0,0,63,22)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{4D83E9F5-30C0-4C06-92EB-206A43A82EA3}" coords="(0,0,63,22)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="16" textFontFamily="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" lineSpacingMultiple="1" textAlign="HaLeft" textVAlign="VaTop" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+          <text>%E6%8F%90%E4%BA%A4%E6%88%90%E5%8A%9F</text>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+    </control>
+    <control controlID="63F1C68F-9890-4571-B4F6-F0456C44AF0D" controlTypeID="TextArea" isShow="True" caption="%E5%A4%9A%E8%A1%8C%E6%96%87%E5%AD%97" x="66" y="215" w="231" h="47" measuredW="240" measuredH="126" zOrder="4" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="16777215" borderVisible="False" borderColor="0" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmSlideLeft" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{F32366C1-5219-457D-B5FC-4EF24DA56174}" coords="(0,0,231,47)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{74C14E32-DD4C-423A-BCAC-563E7F694DAC}" coords="(0,0,231,47)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="14" textFontFamily="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" lineSpacingMultiple="1" textAlign="HaLeft" textVAlign="VaTop" textWordWrap="True" textStyles="[]" useDefaultTextSize="True">
+          <text>%E6%8E%A8%E8%8D%90%E2%80%9C%E6%AF%8F%E5%BD%93%E2%80%9D%E5%8F%AF%E4%BB%A5%E5%8A%A0%E5%BF%AB%E5%AE%A1%E6%A0%B8%E9%80%9F%E5%BA%A6%E5%93%A6%7E</text>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+    </control>
+    <control controlID="BD808F77-83FB-4286-B1CB-3B94016A1AB5" controlTypeID="Label" isShow="True" caption="%E5%8D%95%E8%A1%8C%E6%96%87%E5%AD%97" x="151" y="364" w="56" h="19" measuredW="0" measuredH="0" zOrder="5" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="16777215" borderVisible="True" borderColor="0" isAutoSize="True" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="200">
+          <link targetPageID="516F4971-F01E-46FC-8B52-229B22EC2C3A" linkType="ltPageLink" isApplyIncludePage="False" title="2%E9%A6%96%E9%A1%B5">
+            <area shape="0" alt="" ID="{1EF495F0-7BCF-411D-8549-DC9CAB7B0560}" coords="(0,0,56,19)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{1F2B843D-7FF7-42F6-9F45-C1B6955D72CC}" coords="(0,0,56,19)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4287927444" textSize="14" textFontFamily="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" lineSpacingMultiple="1" textAlign="HaLeft" textVAlign="VaTop" textWordWrap="True" textStyles="[]" useDefaultTextSize="True">
+          <text>%E6%AE%8B%E5%BF%8D%E6%8B%92%E7%BB%9D</text>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+    </control>
+    <control controlID="77D600C4-0408-4E45-B6E6-FB2D048110E8" controlTypeID="Icon" isShow="True" caption="%E5%9B%BE%E6%A0%87" x="166" y="306" w="32" h="32" measuredW="32" measuredH="32" zOrder="6" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4282664004" borderVisible="True" borderColor="0" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{50387754-32A5-455A-8688-EC920387A915}" coords="(0,0,32,32)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{51ED6EDF-39CD-4F26-B7B7-84CA82AE6D7B}" coords="(0,0,32,32)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <Size>32</Size>
+        <rotationAngle>TdZero</rotationAngle>
+        <icon>
+          <ID>friend3.png</ID>
+        </icon>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+    </control>
+    <control controlID="87799A77-8319-4AA7-9C8B-8A2D42D4BBCC" controlTypeID="Icon" isShow="True" caption="%E5%9B%BE%E6%A0%87" x="252" y="247" w="32" h="32" measuredW="32" measuredH="32" zOrder="7" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4282664004" borderVisible="True" borderColor="0" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{AA86BC98-E809-43BE-8F4C-2BF5F59BB7E8}" coords="(0,0,32,32)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{8AE65605-D5D2-4007-ACB9-BB4BB02ADB49}" coords="(0,0,32,32)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <Size>32</Size>
+        <rotationAngle>TdZero</rotationAngle>
+        <icon>
+          <ID>sina.png</ID>
+        </icon>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+    </control>
+    <control controlID="40371B2A-7CFB-4D63-9724-F51A25CA3B02" controlTypeID="Icon" isShow="True" caption="%E5%9B%BE%E6%A0%87" x="82" y="306" w="32" h="32" measuredW="32" measuredH="32" zOrder="8" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4282664004" borderVisible="True" borderColor="0" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{E4FFD216-AE0D-4100-BB65-937EE1911E2D}" coords="(0,0,32,32)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{48AA37A0-DFB2-46F7-A3A7-B060B0001A4D}" coords="(0,0,32,32)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <Size>32</Size>
+        <rotationAngle>TdZero</rotationAngle>
+        <icon>
+          <ID>weixin.png</ID>
+        </icon>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+    </control>
+    <control controlID="E3DB7D1C-5A81-4671-8D66-B7C78FE844AF" controlTypeID="Icon" isShow="True" caption="%E5%9B%BE%E6%A0%87" x="166" y="249" w="32" h="32" measuredW="32" measuredH="32" zOrder="9" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4282664004" borderVisible="True" borderColor="0" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{0426D5EF-3BE2-4B18-A772-E0C911FA62F2}" coords="(0,0,32,32)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{99D0ED74-7B6F-45F0-9055-67DFA4A39036}" coords="(0,0,32,32)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <Size>32</Size>
+        <rotationAngle>TdZero</rotationAngle>
+        <icon>
+          <ID>qqzone.png</ID>
+        </icon>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+    </control>
+    <control controlID="DEF067CF-A600-401E-9C29-47DC98C2F477" controlTypeID="Icon" isShow="True" caption="%E5%9B%BE%E6%A0%87" x="82" y="249" w="32" h="32" measuredW="32" measuredH="32" zOrder="10" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4282664004" borderVisible="True" borderColor="0" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{25D083E7-7D61-42D2-9E45-DE5646B915C8}" coords="(0,0,32,32)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{BF8EA3A2-BB83-4955-A477-DBE2A66F4390}" coords="(0,0,32,32)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <Size>32</Size>
+        <rotationAngle>TdZero</rotationAngle>
+        <icon>
+          <ID>QQ.png</ID>
+        </icon>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+    </control>
+    <control controlID="FA095761-AA1A-485F-BF00-E920B3A33B47" controlTypeID="Icon" isShow="True" caption="%E5%9B%BE%E6%A0%87" x="252" y="306" w="32" h="32" measuredW="32" measuredH="32" zOrder="11" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4282664004" borderVisible="True" borderColor="0" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{8374E686-62B2-4E40-8FB1-A4D535CD7C2C}" coords="(0,0,32,32)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{94AAFA58-6C2C-4BF4-B8EF-A78DA28A37DA}" coords="(0,0,32,32)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <Size>32</Size>
+        <rotationAngle>TdZero</rotationAngle>
+        <icon>
+          <ID>Earth.png</ID>
+        </icon>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+    </control>
+    <control controlID="DA782D08-CFD7-470C-AAA9-B5F4F55F358B" controlTypeID="StickyNote" isShow="True" caption="%E4%BE%BF%E7%AD%BE%E6%9D%A1" x="-231" y="164" w="181" h="289" measuredW="109" measuredH="123" zOrder="12" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294033970" borderVisible="True" borderColor="0" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="True" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{9A7400C5-047F-4A43-8951-71DEE7DF1A05}" coords="(0,0,181,289)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{CC09BBF3-E30A-4CC6-B853-6B636DB57D3F}" coords="(0,0,181,289)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="14" textFontFamily="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" lineSpacingMultiple="1" textAlign="HaLeft" textVAlign="VaTop" textWordWrap="True" textStyles="[]" useDefaultTextSize="True">
+          <text>qq%0D%0A%0D%0Aqq%E7%A9%BA%E9%97%B4%0D%0A%0D%0A%E6%9C%8B%E5%8F%8B%E5%9C%88%0D%0A%0D%0A%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%0D%0A%0D%0A%E5%BE%AE%E5%8D%9A%0D%0A%0D%0A%E5%A4%8D%E5%88%B6%E9%93%BE%E6%8E%A5</text>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+        <isShowTabBar>True</isShowTabBar>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+    </control>
+    <control controlID="B48A3CF2-7ABD-4B3A-891B-7B5F3D4179D0" controlTypeID="StickyNote" isShow="True" caption="%E4%BE%BF%E7%AD%BE%E6%9D%A1" x="411" y="64" w="181" h="205" measuredW="109" measuredH="123" zOrder="13" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294927974" borderVisible="True" borderColor="0" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="True" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{9A7400C5-047F-4A43-8951-71DEE7DF1A05}" coords="(0,0,181,205)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{CC09BBF3-E30A-4CC6-B853-6B636DB57D3F}" coords="(0,0,181,205)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="14" textFontFamily="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" lineSpacingMultiple="1" textAlign="HaLeft" textVAlign="VaTop" textWordWrap="True" textStyles="[]" useDefaultTextSize="True">
+          <text>1%E3%80%81%E5%88%86%E4%BA%AB%0D%0A%E5%88%86%E4%BA%AB%E6%88%90%E5%8A%9F%E5%90%8E%EF%BC%8C%E6%8F%90%E7%A4%BA%E2%80%9C%E5%88%86%E4%BA%AB%E6%88%90%E5%8A%9F%E2%80%9D%0D%0A%0D%0A2%E3%80%81%E5%A4%8D%E5%88%B6%E9%93%BE%E6%8E%A5%0D%0A%E6%8F%90%E7%A4%BA%E2%80%9C%E5%A4%8D%E5%88%B6%E6%88%90%E5%8A%9F%E2%80%9D</text>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+        <isShowTabBar>True</isShowTabBar>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

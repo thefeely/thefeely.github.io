@@ -1,0 +1,103 @@
+﻿<mockup version="4.2" platform="MtMobile" defaultW="360" defaultH="640" from="FmLocal" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" ID="67936D4E-3457-4CA3-A87A-DB49EA5A740A" measureW="360" measureH="640" clipArea="(0,0,0,0)" minAllowVersion="4.1">
+  <controls controlCount="3">
+    <control controlID="3F3F67D0-99CE-45D4-BEAD-1D2814966721" controlTypeID="Shape" isShow="True" caption="%E5%BD%A2%E7%8A%B6" x="0" y="0" w="360" h="50" measuredW="120" measuredH="100" zOrder="0" locked="False" sizeLocked="True">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="True" borderColor="4282664004" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>30</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>30</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{07EC56F3-B4F9-425A-A739-ECBF3CE618E9}" coords="(0,0,360,50)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{263F910B-2BAA-4C09-BAE4-58CE70A97EC9}" coords="(0,0,360,50)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="14" textFontFamily="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True">
+          <text>%E7%94%A8%E6%88%B7%E5%8D%8F%E8%AE%AE</text>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+        <shapeBorderType>SbRectangle</shapeBorderType>
+        <triangleType>TdZero</triangleType>
+        <dashMode>SdSolid</dashMode>
+        <rectangleBorderLeftVisible>True</rectangleBorderLeftVisible>
+        <rectangleBorderRightVisible>True</rectangleBorderRightVisible>
+        <rectangleBorderTopVisible>True</rectangleBorderTopVisible>
+        <rectangleBorderBottomVisible>True</rectangleBorderBottomVisible>
+        <radius>0</radius>
+        <radiusIsPercent>True</radiusIsPercent>
+        <thickness>1</thickness>
+      </controlProperties>
+    </control>
+    <control controlID="5FE3C3DA-8FED-43DE-A78B-92F73CBC3C62" controlTypeID="Icon" isShow="True" caption="%E5%9B%BE%E6%A0%87" x="10" y="15" w="20" h="20" measuredW="32" measuredH="32" zOrder="1" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4282664004" borderVisible="True" borderColor="0" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>30</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>30</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="200">
+          <link targetPageID="DDB8EE9D-A374-4BB9-A3C4-EBC3BEA478F9" linkType="ltPageLink" isApplyIncludePage="False" title="10%E6%B3%A8%E5%86%8C">
+            <area shape="0" alt="" ID="{B8663169-C602-44CA-B8E0-78BD95848781}" coords="(0,0,20,20)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{9522FD53-46D9-4FA1-8253-DA13ADED7A19}" coords="(0,0,20,20)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <rotationAngle>TdZero</rotationAngle>
+        <icon>
+          <ID>Back.png</ID>
+          <iconFontName/>
+          <iconCode>-1</iconCode>
+        </icon>
+        <URL/>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+      </controlProperties>
+    </control>
+    <control controlID="6949AC64-B0A8-49F6-A0C6-083E562CC08E" controlTypeID="TextArea" isShow="True" caption="%E5%A4%9A%E8%A1%8C%E6%96%87%E5%AD%97" x="10" y="60" w="340" h="570" measuredW="0" measuredH="126" zOrder="2" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="16777215" borderVisible="False" borderColor="0" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>30</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>30</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{96EB85C3-A2A9-4052-9F37-FDB94E876C85}" coords="(0,0,340,570)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{100F5D0B-776E-4009-ABB8-A9C337B59CA5}" coords="(0,0,340,570)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="14" textFontFamily="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" lineSpacingMultiple="1" textAlign="HaLeft" textVAlign="VaTop" textWordWrap="True" textStyles="[]" useDefaultTextSize="True">
+          <text>Fusce+efficitur+mi+ex%2C+id+dictum+lectus+molestie+vitae.+Curabitur+auctor+a+elit+nec+viverra.+Praesent+vel+augue+pharetra+massa+pellentesque+convallis.+Integer+fermentum+sapien+vitae+tellus+iaculis%2C+at+rhoncus+magna+lacinia.+Integer+pharetra+odio+arcu%2C+finibus+commodo+nibh+porta+ac.+Morbi+tempus+luctus+tortor%2C+at+lacinia+urna+maximus+vel.+Interdum+et+malesuada+fames+ac+ante+ipsum+primis+in+faucibus.+Aliquam+vel+massa+sed+massa+efficitur+dapibus+ac+vel+tortor.+Pellentesque+pretium+interdum+purus+non+egestas.+Suspendisse+diam+risus%2C+gravida+eget+aliquam+eget%2C+gravida+non+urna.+Etiam+ut+tristique+velit.+Nullam+ut+nibh+erat.+Cras+tempus+condimentum+nisl%2C+a+suscipit+diam+congue+ac.%0D%0A</text>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+      </controlProperties>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

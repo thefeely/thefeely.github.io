@@ -1,0 +1,66 @@
+﻿<mockup version="4.2" platform="MtMobile" defaultW="360" defaultH="640" from="FmLocal" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" ID="80E0104F-57A9-4E16-A30C-7AAD7D55F506" measureW="360" measureH="640" clipArea="(0,0,0,0)" minAllowVersion="4.1">
+  <controls controlCount="2">
+    <control controlID="7A5E4171-4C54-49DF-8AF3-FE45C076D6BE" controlTypeID="Alert" isShow="True" caption="%E6%8F%90%E7%A4%BA%E6%A1%86" x="53" y="187" w="240" h="156" measuredW="200" measuredH="130" zOrder="0" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="16777215" borderVisible="True" borderColor="0" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="content" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmPushLeft" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%8F%96%E6%B6%88">
+            <area shape="0" alt="" ID="{CCEA137B-54B4-4E10-9B74-CD8973CA7978}" coords="(5,121,115,151)"/>
+          </link>
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%88%A0%E9%99%A4">
+            <area shape="0" alt="" ID="{63649B78-62ED-4B79-A5B7-DEB7410D02E3}" coords="(125,121,235,151)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="%E5%8F%96%E6%B6%88">
+            <area shape="0" alt="" ID="{AB899D01-B294-434D-82F4-AFED08B6CB85}" coords="(5,121,115,151)"/>
+            <events title=""/>
+          </entry>
+          <entry title="%E5%88%A0%E9%99%A4">
+            <area shape="0" alt="" ID="{E2F17C68-9A52-4F30-8186-595BC99269FE}" coords="(125,121,235,151)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="14" textFontFamily="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaTop" textWordWrap="True" textStyles="[]" useDefaultTextSize="True">
+          <text>%0D%0A%E4%BD%A0%E8%A6%81%E5%88%A0%E9%99%A4%E8%BF%99%E7%AF%87%E8%AE%B2%E8%BF%B0%E5%90%97%EF%BC%9F%0D%0A%E5%8F%96%E6%B6%88%2C%E5%88%A0%E9%99%A4</text>
+        </textSet>
+        <selectedIndex>0</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+        <selection>MBNone</selection>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+    </control>
+    <control controlID="7C39CF0A-4724-454A-B407-CEC7D8098A36" controlTypeID="StickyNote" isShow="True" caption="%E4%BE%BF%E7%AD%BE%E6%9D%A1" x="-246" y="131" w="222" h="182" measuredW="109" measuredH="123" zOrder="1" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294033970" borderVisible="True" borderColor="0" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="True" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{AC3ECDF7-7C75-4D71-9891-C9C1DE5B3937}" coords="(0,0,222,182)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{F52E7C49-1BEA-44F9-A6AE-EDC9423F8228}" coords="(0,0,222,182)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="14" textFontFamily="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" lineSpacingMultiple="1" textAlign="HaLeft" textVAlign="VaTop" textWordWrap="True" textStyles="[]" useDefaultTextSize="True">
+          <text>%E5%88%A0%E9%99%A4%0D%0A%E5%BC%B9%E7%AA%97%E6%B6%88%E5%A4%B1%EF%BC%8C%E9%A1%B5%E9%9D%A2%E5%88%B7%E6%96%B0%EF%BC%8C%E6%8F%90%E7%A4%BA%E2%80%9C%E5%88%A0%E9%99%A4%E6%88%90%E5%8A%9F%E2%80%9D%0D%0A%0D%0A%0D%0A%E5%8F%96%E6%B6%88%0D%0A%E5%BC%B9%E7%AA%97%E6%B6%88%E5%A4%B1</text>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+        <isShowTabBar>True</isShowTabBar>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
